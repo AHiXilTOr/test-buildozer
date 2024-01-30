@@ -8,7 +8,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 0.1
-requirements = python3==3.8.0, Cython==0.29.33, kivy==2.2.1
+requirements = python3==3.8.0, kivy==2.3.0
 p4a.branch = release-2022.12.20
 
 orientation = portrait
